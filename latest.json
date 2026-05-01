@@ -1,11 +1,11 @@
 {
-  "version": "0.5.2",
-  "notes": "<h3>v0.5.2</h3><ul><li>更新检查改用 jsdelivr CDN 加速（国内可直连）</li><li>移除 NO_PROXY 限制，允许系统代理生效</li></ul>",
-  "pub_date": "2026-05-01T18:30:22Z",
+  "version": "0.5.3",
+  "notes": "<h3>v0.5.3</h3><ul><li>优化浏览器配置描述文案</li></ul>",
+  "pub_date": "2026-05-01T18:35:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZk1FRWc0KzByOGR1bFdGN3J0YnNWb1pkMjVxeFFOL1oxcFdCZ3I0Y2Vzc3IyUFU1RWtKMDh6TDllM0twS3J0K1Vab2FnNk9EOEVydFQvaSsrT1FEaXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYwMjA5CWZpbGU6WmFvSGFvU2hpXzAuNS4yX3g2NC1zZXR1cC5leGUKbVc0OWQyeVhrOGpKWE9GMFpSVDZrNUlNSGdDTXJFQmJKeXZVSlNBZjFkSThGR2VPOFdMQVUvQ29jTDdDMDFGU3l0QmlqQXVyd04yMy9RK3dkWGlDQlE9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.2/ZaoHaoShi_0.5.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZkd5S3dsVHdLVVVqeksrcWxLUEpYcS9SQmlYZVRLRkhvNFZhZ2ZLTTJSc2I4OENWQ3A1Zkt0OUZXVEs2QXM4bTBkV3ptYWw5K0hlWWhmZnhXY3F4M1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYwNTMyCWZpbGU6WmFvSGFvU2hpXzAuNS4zX3g2NC1zZXR1cC5leGUKRVpvU3hKM3c3K3VjN1N5OXpuSnRpTmh0YUhROHBwZ0QvZGxPQVgrb0xOd2tBeVpqU3NtWkJjTDdIMVBxdFRWbmdlVng0WUpuQVN2bTlKMXRPblZXQkE9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.3/ZaoHaoShi_0.5.3_x64-setup.exe"
     }
   }
 }
