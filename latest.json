@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "<h2>v0.3.0 版本升级中...</h2><ul><li>启动时自动检测并安装更新</li><li>运行中提醒式更新</li></ul>",
-  "pub_date": "2026-05-01T16:22:24Z",
+  "version": "0.4.0",
+  "notes": "<h2>v0.4.0</h2><ul><li>修复启动闪退问题（端口占用兜底处理）</li><li>启动时自动检测并安装更新</li></ul>",
+  "pub_date": "2026-05-01T16:46:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclVlc0h3ODBPR1kzVisxZ1gySFZJQlppYjhSVTVvNEg1bXBHaFhRY1M1aThYTXN0ajZWRnQ3T1FzclZEK29ZUVZqNE5PZEh3NFFLOFZNMXpnajR5VTJ0TDNYaXBRc2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjUyNTEzCWZpbGU6WmFvSGFvU2hpXzAuMy4wX3g2NC1zZXR1cC5leGUKNExCc3pmRnRFTVl0NzNobE44NXlXYUhTTEFuYmhtUVlpTnRkS2xvMTFnSXQrbGcyNWhjajZvYks4b3FPeEJTUUVDdDB3d3VJUVJZSTYyMkZzamFxREE9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.3.0/ZaoHaoShi_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclVlc0h3ODBPR1JtQTdJRjE5amtXZUZuSHdwbTBCbzZzamtHbU5TcGJFRkg3c3VWdWxxOXhCWS9OVW9jSmt0SmZkdTEzZFFnQWxDY3ErZzBEWDZMbTdoTTdGNzM2T1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjUzODY4CWZpbGU6WmFvSGFvU2hpXzAuNC4wX3g2NC1zZXR1cC5leGUKOEJhRk1DQk1PbURDSnc4NUJ0dmMwbGRlV1IxMXZnM2dmWlp5RnBrUEVsU1EwdjRZRXo2bjRtQzBTMzdHK29HMjBzclIvNklnSWVjcEZ0ZzJRTW9tQ0E9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.4.0/ZaoHaoShi_0.4.0_x64-setup.exe"
     }
   }
 }
