@@ -1,11 +1,11 @@
 {
-  "version": "0.5.4",
-  "notes": "<h3>v0.5.4</h3><ul><li>更新检查改回直连 GitHub（依赖系统代理）</li><li>优化浏览器配置描述文案</li></ul>",
-  "pub_date": "2026-05-01T18:39:54Z",
+  "version": "0.5.5",
+  "notes": "<h3>v0.5.5</h3><ul><li>测试自动更新</li></ul>",
+  "pub_date": "2026-05-01T18:49:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZk4xOGVCK2J4eXZnbFBQdVpIdVF3N3FVZGp0djZKdUpYNjk5Yk9PY2c2T2doWkZGSWo2aTBaaDAxdWw4STZ5anpLNHg4SE9JMkJkMjhxaXlQbkZvOUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYwNzgxCWZpbGU6WmFvSGFvU2hpXzAuNS40X3g2NC1zZXR1cC5leGUKNzBnVXBoOW9sN2NsUUlPZGxST2U0c1pxMkF4RlRHOHJRS0tMcFc4eGtubk1ZY0R1NTJxOWxDaDNiWUhaSWFuRlN4SG5ldlFkcGNjZ1RaYWs2bi9nQWc9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.4/ZaoHaoShi_0.5.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZkt6UkgrUmh3NS8zUVhHaytPeFNVSVFaYThuVjBwbGlVM21uMi9LZ0N2UHNsU0FudGdGWnRlcHB1TDBLaVJhc0xIZ0Uzd0xGOTF1dyszVElORjVsaEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYxMzU3CWZpbGU6WmFvSGFvU2hpXzAuNS41X3g2NC1zZXR1cC5leGUKM1ZvelBTMlZiUDdiaCtidmxCdURhVG0vWERRRzZIV1NIRnJJbEVqaVVVKzgzMWNOTFR0WDlJY0pxckJ3OXFxT1VzZjZUTm1mS0tWTmR2eG5waitSQUE9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.5/ZaoHaoShi_0.5.5_x64-setup.exe"
     }
   }
 }
