@@ -1,11 +1,11 @@
 {
-  "version": "0.5.7",
-  "notes": "<h3>v0.5.7</h3><ul><li>测试自动更新流程</li></ul>",
-  "pub_date": "2026-05-01T19:15:26Z",
+  "version": "0.5.8",
+  "notes": "<h3>v0.5.8</h3><ul><li>修复签名公钥不匹配导致自动更新失败</li><li>新增发版前 pubkey 一致性检查</li><li>新增发版前 Nuitka 二进制验证</li></ul>",
+  "pub_date": "2026-05-01T19:26:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZkNwTyszd1hrVTQ3N1Z5VmxRRHlzOEdyQTlwakd1YXJ5UXU1RUgxQ1haR1g5ZzJ1ZGdvcEJxV1hMcU9IeTMyOCtKNGd2dnZCUjRqSnh3bHhnTW5FMlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYyOTA3CWZpbGU6WmFvSGFvU2hpXzAuNS43X3g2NC1zZXR1cC5leGUKQmRWcERzckJMckhDSHRyeUk0SzNla1dLZXJDS0IzcWlROTI3UnhwbE1iczYzdjNBNnovS25kRlFlSVBPZTdJM2RyeHRmdGhrdEo3TkhVcFd3U3prQWc9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.7/ZaoHaoShi_0.5.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZk41MjU5bnEyMGh0ZEdIckdCZS9TUWZ5aytBNFVQZlJscTVUamo0Uk9rK0JreXovWkxhTkpTZEc1MisrVFhJQ2dWTkpaZ1Y3aUFreUlmV1lnS1RsRFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYzNTc1CWZpbGU6WmFvSGFvU2hpXzAuNS44X3g2NC1zZXR1cC5leGUKd1Z2dkhOQzFQSmJqN3dtalRVaUZXZUVCeWg4OGFsalFrM3FTVm4xTnVQNEs5b1Fhc1ZUNjB3S3JvdmxpNmtBcHZpKzBSVFZyKy8zdlFSVXRnWmpxQ2c9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.8/ZaoHaoShi_0.5.8_x64-setup.exe"
     }
   }
 }
