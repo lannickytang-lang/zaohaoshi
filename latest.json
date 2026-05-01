@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "<h2>v0.2.0</h2><ul><li>新增版本自动更新功能</li></ul>",
-  "pub_date": "2026-05-01T16:12:39Z",
+  "version": "0.3.0",
+  "notes": "<h2>v0.3.0 版本升级中...</h2><ul><li>启动时自动检测并安装更新</li><li>运行中提醒式更新</li></ul>",
+  "pub_date": "2026-05-01T16:22:24Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclVlc0h3ODBPR1QyQXRIcXFkcVNXcTVCOVJtQmF6TVJsZ1JudzFXaEQ0eXA4YW1NQUdNOTNKMXdpRjNuMVg4bzl2MnFYR0VUOERqcFc5TEVnNURkQi90MFdPN3VqQ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjUxNjQ0CWZpbGU6WmFvSGFvU2hpXzAuMi4wX3g2NC1zZXR1cC5leGUKelJTTDBOclBxaWVNbWlxYnh0eFBQaEdEdXhRcWRValdsbUxycnRKUjRqbFNDZjlvTG10NTRRRFNuR2pBdkkzenZvSUtZcllaL2RrQ0RJRmcrdytkQVE9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.2.0/ZaoHaoShi_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclVlc0h3ODBPR1kzVisxZ1gySFZJQlppYjhSVTVvNEg1bXBHaFhRY1M1aThYTXN0ajZWRnQ3T1FzclZEK29ZUVZqNE5PZEh3NFFLOFZNMXpnajR5VTJ0TDNYaXBRc2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjUyNTEzCWZpbGU6WmFvSGFvU2hpXzAuMy4wX3g2NC1zZXR1cC5leGUKNExCc3pmRnRFTVl0NzNobE44NXlXYUhTTEFuYmhtUVlpTnRkS2xvMTFnSXQrbGcyNWhjajZvYks4b3FPeEJTUUVDdDB3d3VJUVJZSTYyMkZzamFxREE9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.3.0/ZaoHaoShi_0.3.0_x64-setup.exe"
     }
   }
 }
