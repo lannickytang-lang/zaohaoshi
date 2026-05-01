@@ -1,11 +1,11 @@
 {
-  "version": "0.5.6",
-  "notes": "<h3>v0.5.6</h3><ul><li>修复更新下载不走代理的问题</li></ul>",
-  "pub_date": "2026-05-01T19:03:42Z",
+  "version": "0.5.7",
+  "notes": "<h3>v0.5.7</h3><ul><li>测试自动更新流程</li></ul>",
+  "pub_date": "2026-05-01T19:15:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZkQ0eGZGR0RBdjZuNGJDRUxnZlU0aEQraEF2R1NzNHJpZzg4aHNzMHg5TjVGdWprZisydGxScml2WWpUVlBZdnZDaW9qMGxudkQ5WWxlVzVXanptbkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYyMjA0CWZpbGU6WmFvSGFvU2hpXzAuNS42X3g2NC1zZXR1cC5leGUKVW80ckljVDNHbzlzMFRncjNFc0NhNWR5UGVXMGNYdWZWSXdiQVNqSXNpWWhmVHlRN2pqcVczZTBuZ2lZNlEwWUlycVN1RS9QeUZ1UmdXSWdZR1Q2QWc9PQo=",
-      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.6/ZaoHaoShi_0.5.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMzF3cGV5R29pZkNwTyszd1hrVTQ3N1Z5VmxRRHlzOEdyQTlwakd1YXJ5UXU1RUgxQ1haR1g5ZzJ1ZGdvcEJxV1hMcU9IeTMyOCtKNGd2dnZCUjRqSnh3bHhnTW5FMlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjYyOTA3CWZpbGU6WmFvSGFvU2hpXzAuNS43X3g2NC1zZXR1cC5leGUKQmRWcERzckJMckhDSHRyeUk0SzNla1dLZXJDS0IzcWlROTI3UnhwbE1iczYzdjNBNnovS25kRlFlSVBPZTdJM2RyeHRmdGhrdEo3TkhVcFd3U3prQWc9PQo=",
+      "url": "https://github.com/lannickytang-lang/zaohaoshi/releases/download/v0.5.7/ZaoHaoShi_0.5.7_x64-setup.exe"
     }
   }
 }
